@@ -11,12 +11,12 @@ I test four light-weight network as backbone including mobilenet v1, v2, v3 and 
 
 ## WiderFace Val Performance
 
-| Models            | Easy    | Medium  | Hard   |
-| ----------------- | ------- | ------- | ------ |
-| mobilenetv1_0.25  | 0.91718 | 0.79766 | 0.3592 |
-| mobilenetv2_0.1   | 0.85330 | 0.68946 | 0.2993 |
-| mobilenetv3_small | 0.93419 | 0.83259 | 0.3850 |
-| efficientnet-b0   |         |         |        |
+| Models            | Easy    | Medium  | Hard    |
+| ----------------- | ------- | ------- | ------- |
+| mobilenetv1_0.25  | 0.91718 | 0.79766 | 0.3592  |
+| mobilenetv2_0.1   | 0.85330 | 0.68946 | 0.2993  |
+| mobilenetv3_small | 0.93419 | 0.83259 | 0.3850  |
+| efficientnet-b0   | 0.93167 | 0.81466 | 0.37020 |
 
 ## Data
 
