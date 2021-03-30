@@ -68,7 +68,9 @@ cd ./widerface_evaluate
 python setup.py build_ext --inplace
 python evaluation.py
 ```
-
+## Android and IOS
+Android is deployed with libtorch：https://github.com/midasklr/facedetection_android.pytorch
+IOS use ncnn
 ## References
 
 [Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface)
