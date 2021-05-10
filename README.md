@@ -1,4 +1,11 @@
 # LightWeightFaceDetector
+
+## update20210510
+Upload a new face detection dataset with face box and 5 landmarks. this dataset makes up of big face and helps to improve detection acc with close face.You can add this dataset to widerface.
+[MobileFaceDet](https://pan.baidu.com/s/1x8zATo7TDx300JLPxyvI8g) passwords: eu8w
+开源一个近场景人脸检测和关键点数据集，数据集包含了27k+张人脸标注，全部为近距离人脸，类似于手机前置拍摄。有助于改善移动端人脸检测和关键点回归精度，将这个数据集和widerface train数据集合并，可以训练了一个大小仅仅120k的人脸检测模型.
+
+
 Ultra Light Weight Face Detection with Landmark, model size  is around 1M+ for Mobile or Edge devices. I samplified  RetinaFace structure for fast inference.
 
 I test four light-weight network as backbone including mobilenet v1, v2, v3 and efficientnet-b0.
